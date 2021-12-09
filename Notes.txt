@@ -1,0 +1,12 @@
+03 estágios do git
+
+	Commited
+		Gravado
+		Significa que foi armazenado localmente com segurança
+	Modified
+		Modificado
+		Arquivo foi alterado mas ainda não foi dado o "commit"
+	Staged
+		Selecionado
+		Significa que marcou um arquivo modificado na versão corrente para ser parde do próximo commit
+
