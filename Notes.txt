@@ -1,4 +1,11 @@
 
+Comandos básicos do git
+	git init - dentro do diretório selecionado, inicia o monitoramento pelo git.
+	git status - verifica a situação dos diretórios controlados. 
+	git log - traz o log de todos os commits efetuados no diretório.
+
+	rm -rf .git - remove o monitoramento do git, apagando o diretório de controle .git do diretório selecionado.
+
 
 03 estágios do git
 
@@ -17,3 +24,8 @@ Workflow básico:
 	Selecione os arquivos que farão parte do próximo commit
 	Faça o commit que utilizarão os arquivos "staged"
 
+
+Andando entre commits/snapshots
+
+	git checkout <commit id>
+		
