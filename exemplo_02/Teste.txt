@@ -2,6 +2,9 @@ TESTESTESTESTSETES
 
 
 Outras alterações
-
+	Alterações dentro das primeiras alterações
 
 Outras alterações
+
+
+Outras alterações pós commit
