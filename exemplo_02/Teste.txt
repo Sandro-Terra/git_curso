@@ -6,5 +6,6 @@ Outras alterações
 
 Outras alterações
 
+	Outras alterações dentro de outras alterações, dentro de outras alterações
 
 Outras alterações pós commit
