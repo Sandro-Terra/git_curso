@@ -1,3 +1,5 @@
+
+
 03 estágios do git
 
 	Commited
@@ -9,4 +11,9 @@
 	Staged
 		Selecionado
 		Significa que marcou um arquivo modificado na versão corrente para ser parde do próximo commit
+
+Workflow básico:
+	Modifique os arquivos
+	Selecione os arquivos que farão parte do próximo commit
+	Faça o commit que utilizarão os arquivos "staged"
 
