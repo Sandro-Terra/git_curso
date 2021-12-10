@@ -28,4 +28,20 @@ Workflow básico:
 Andando entre commits/snapshots
 
 	git checkout <commit id>
-		
+	git checkout master - retorna para o último commit.
+
+Conhecendo o GitHub
+	
+	Reunião de repositórios de qualquer pessoa, de modo público. Pagando, pode ter repositórios privados.
+	BitBucket permite ter repositórios privados de graça.
+
+Clonando projetos
+	git clone link(url do projeto).git
+	Baixa o projeto (se for público) pra sua máquina e permite navegar entre os commits.
+	Bom recurso para estudar projetos de outros, para aprendizado.
+
+Criando e enviando projeto para o GitHub
+
+	ls -la - verifica se o diretório tem repositório
+	
+
