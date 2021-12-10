@@ -43,5 +43,10 @@ Clonando projetos
 Criando e enviando projeto para o GitHub
 
 	ls -la - verifica se o diretório tem repositório
+	git remote add origin https://github.com/<usuário>/<repositório>.git - cria o link no git do diretório local para o diretório do GitHub.
+	git push -u origin master - sobe os arquivos para o diretório linkado no git.
+
 	
+	git push - envia arquivos locais para o repositório selecionado. Autenticado com usuário e token gerado na plataforma GitHub (token válido por tempo determinado)
+
 
