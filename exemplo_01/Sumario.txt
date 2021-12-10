@@ -1,1 +1,1 @@
-TEstesttestests
+Teste de alteração do sumário - para verificar versão do commit no diretório remoto.
